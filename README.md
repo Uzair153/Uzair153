@@ -6,31 +6,27 @@ I'm Uzair, a DevOps Engineer and IT student passionate about optimizing software
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sheikh.uzair.1804) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sheikh_uzair_02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/uzair-ahmad-754076243) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@The_uzairahmad) 
 
 # 💻 Tech Stack:
-
- <p float="left">
-  <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
-  </a> 
-  <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
-  </a>
- </p>
- <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
-  </a>
- </p>
- <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif"  height="75" />
-  </a>
- </p>
+ <div style="display: flex; align-items: center; justify-content: center;">
+    <a href="https://www.docker.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="80" />
+    </a>
+    <a href="https://www.digitalocean.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif" height="65" />
+    </a>
+    <a href="https://aws.amazon.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" height="75" />
+    </a>
+    <a href="https://kubernetes.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif" height="85" />
+    </a>
+    <a href="https://www.terraform.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" height="75" />
+    </a>
+</div>
 <p float="left">
   <a href="https://python.org/" target="_blank" >
     <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
-  </a>
-    
+  </a>    
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
   </a>
