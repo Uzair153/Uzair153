@@ -19,6 +19,18 @@ I'm Uzair, a DevOps Engineer and IT student passionate about optimizing software
     <a href="https://www.terraform.io/" target="_blank">
         <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" height="100" />
     </a>
+    <a href="https://github.com/itsksaurabh/itsksaurabh/blob/master/assets/grafana.gif" target="_blank">
+        <img src="https://github.com/itsksaurabh/itsksaurabh/blob/master/assets/grafana.gif?raw=true" height="100" />
+    </a>
+    <a href="https://github.com/itsksaurabh/itsksaurabh/blob/master/assets/helm.gif" target="_blank">
+        <img src="https://github.com/itsksaurabh/itsksaurabh/blob/master/assets/helm.gif?raw=true" height="100" />
+    </a>
+    <a href="https://github.com/itsksaurabh/itsksaurabh/blob/master/assets/mongo.gif" target="_blank">
+        <img src="https://github.com/itsksaurabh/itsksaurabh/blob/master/assets/mongo.gif?raw=true" height="100" />
+    </a>
+    <a href="https://github.com/itsksaurabh/itsksaurabh/blob/master/assets/prometheus.gif" target="_blank">
+        <img src="https://github.com/itsksaurabh/itsksaurabh/blob/master/assets/prometheus.gif?raw=true" height="100" />
+    </a>
 </div>
 <p style="display: flex; align-items: center; justify-content: center;">
     <a href="https://www.python.org/" target="_blank">
