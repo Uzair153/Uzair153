@@ -8,7 +8,7 @@ I'm Uzair, a DevOps Engineer and IT student passionate about optimizing software
 # 💻 Tech Stack:
 <div style="display: flex; align-items: center; justify-content: center;">
     <a href="https://www.docker.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="100" />
+        <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="150" />
     </a>
     <a href="https://aws.amazon.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" height="75" />
@@ -22,7 +22,7 @@ I'm Uzair, a DevOps Engineer and IT student passionate about optimizing software
 </div>
 <p style="display: flex; align-items: center; justify-content: center;">
     <a href="https://www.python.org/" target="_blank">
-        <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height="80" />
+        <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height="50" />
     </a>
     <a href="https://docs.gitlab.com/ee/ci/" target="_blank">
         <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif" height="65" />
