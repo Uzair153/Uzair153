@@ -8,21 +8,21 @@ I'm Uzair, a DevOps Engineer and IT student passionate about optimizing software
 # 💻 Tech Stack:
 <div style="display: flex; align-items: center; justify-content: center;">
     <a href="https://www.docker.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="150" />
+        <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="110" />
     </a>
     <a href="https://aws.amazon.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" height="75" />
+        <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" height="100" />
     </a>
     <a href="https://kubernetes.io/" target="_blank">
-        <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif" height="85" />
+        <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif" height="100" />
     </a>
     <a href="https://www.terraform.io/" target="_blank">
-        <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" height="75" />
+        <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" height="100" />
     </a>
 </div>
 <p style="display: flex; align-items: center; justify-content: center;">
     <a href="https://www.python.org/" target="_blank">
-        <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height="50" />
+        <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height="60" />
     </a>
     <a href="https://docs.gitlab.com/ee/ci/" target="_blank">
         <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif" height="65" />
